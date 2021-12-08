@@ -5,6 +5,7 @@ This repo contains code both to:
 - Benchmark new models   
 - Plot the results from the benchmarks   
 - Fit a linear regression model to the results and estimate the optimal regressors.  
+- [Presentation with Slides](https://docs.google.com/presentation/d/1mfOLjf1l8k66I4HDIi5v8cHX2Czr3KT-gXpAMl6hB2Y/edit?usp=sharing)
 
 # Run new benchmarks        
          
